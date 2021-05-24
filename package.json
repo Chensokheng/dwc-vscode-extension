@@ -1,0 +1,26 @@
+{
+	"name": "dwc-snippets",
+	"displayName": "DWC snippets",
+	"icon": "./images/logo.jpeg",
+	"description": "daily web coding snippets ",
+	"publisher": "sokheng chen",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Chensokheng/dwc-vscode-extension.git"
+	}
+}
