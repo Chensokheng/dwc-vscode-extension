@@ -1,9 +1,9 @@
 {
 	"name": "dwc-snippets",
 	"displayName": "DWC snippets",
-	"icon": "./images/logo.jpeg",
+	"icon": "images/logo.jpeg",
 	"description": "daily web coding snippets ",
-	"publisher": "sokheng chen",
+	"publisher": "dailywebcoding",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.56.0"
