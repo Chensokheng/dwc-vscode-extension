@@ -4,7 +4,7 @@
 	"icon": "images/logo.jpeg",
 	"description": "daily web coding snippets ",
 	"publisher": "dailywebcoding",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.56.0"
 	},
@@ -15,7 +15,11 @@
 		"snippets": [
 			{
 				"language": "javascript",
-				"path": "./snippets/snippets.code-snippets"
+				"path": "./snippets/js.code-snippets"
+			},
+			{
+				"language": "dotenv",
+				"path": "./snippets/dotenv.code-snippets"
 			}
 		]
 	},
